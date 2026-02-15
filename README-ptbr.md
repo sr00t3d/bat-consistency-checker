@@ -65,7 +65,7 @@ if "!IP_LOCAL!"=="!IP_SERVIDOR!" (
 ## ⚠️ Aviso Legal
 
 > [!WARNING]
-> Este software é fornecido "como está". Embora amplamente testado em ambientes Dovecot, **sempre realize um backup completo** dos seus diretórios Maildir antes de executar qualquer script de conversão. O autor não se responsabiliza por qualquer perda de dados.
+> Este software é fornecido "como está". Embora amplamente testado em ambientes Windows. O autor não se responsabiliza por qualquer perda de dados.
 
 ---
 
