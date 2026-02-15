@@ -1,6 +1,6 @@
 # Verificador de Consistência de DNS
 
-Leia-me: [Inglês](README.md)
+Leia-me: [English](README.md)
 
 ![Licença](https://img.shields.io/github/license/sr00t3d/bat-consistency-checker)
 ![Script Bat](https://img.shields.io/badge/language-Bash-green.svg)
@@ -65,19 +65,13 @@ if "!IP_LOCAL!"=="!IP_SERVIDOR!" (
 ## ⚠️ Aviso Legal
 
 > [!WARNING]
-> Este software é fornecido "como está". Embora amplamente testado em ambientes Windows. O autor não se responsabiliza por qualquer perda de dados.
+> Este software é fornecido "como está". Certifique-se sempre de testar primeiro em um ambiente de desenvolvimento. O autor não se responsabiliza por qualquer uso indevido, consequências legais ou impacto em dados causado por esta ferramenta.
 
 ---
 
-## 🛠️ Requisitos
-
-- **SO**: Linux (Debian, Ubuntu, CentOS, RHEL).
-- **Dependências**: `bash`, `curl`, `python3` (para o mecanismo interno de conversão).
-- **Permissões**: Acesso de leitura ao Maildir de origem e acesso de escrita ao destino.
-
 ## 📚 Tutorial Detalhado
 
-Para um guia completo passo a passo sobre como importar os arquivos gerados no Thunderbird e solucionar problemas comuns de migração, confira meu artigo completo:
+Para um guia completo passo a passo, confira meu artigo completo:
 
 👉 [**Verifique seu Domínio e DNS Rapidamente**](https://perciocastelo.com.br/blog/check-your-domain-and-dns-quickly.html)
 
