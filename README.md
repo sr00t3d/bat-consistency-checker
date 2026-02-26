@@ -5,6 +5,8 @@ Readme: [Português](README-ptbr.md)
 ![License](https://img.shields.io/github/license/sr00t3d/bat-consistency-checker)
 ![Bat Script](https://img.shields.io/badge/language-Bash-green.svg)
 
+<img width="700" src="bat-consistency-checker-cover.webp" />
+
 A Windows Batch Script (`.bat`) tool designed to diagnose DNS name resolution and propagation issues, specifically focusing on mail servers (`mail.domain`).
 
 This script performs cross-referenced queries between the machine's Local DNS, Google's Public DNS, and the network's Public IP to validate if the client is resolving the correct server IP address.
